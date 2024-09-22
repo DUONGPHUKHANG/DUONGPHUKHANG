@@ -40,7 +40,7 @@ I'm **devbaoo**, a student at FPT University, about me:
 
 ## 📫 How to Reach Me
 
-- Email: baockse172296@fpt.edu.vn
+- Email: khangbinh261@gmail.com --> contact me
 <p align="center">
 <a href="https://www.instagram.com/khangcutoe/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
  <a href="https://www.facebook.com/khangsayhii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devbaoo" height="50" width="50" /></a>
